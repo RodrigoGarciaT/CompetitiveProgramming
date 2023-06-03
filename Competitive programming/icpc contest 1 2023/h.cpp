@@ -2,10 +2,10 @@
 using namespace std;
 #define ll long long
 const ll N = 1e5+1;
-ll mod =1e9+7;
+const ll mod =1e9+7;
 ll n;
 ll A = 31;
-ll B = 1e9+9;
+const ll B = 1e9+9;
 string obj;
 vector<string>candidates;
 
